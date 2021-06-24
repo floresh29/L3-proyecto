@@ -1,4 +1,0 @@
-C:\Users\hp\Downloads\Ventass-main\Delivery\BL.Ventas\bin\Debug\BL.Ventas.dll
-C:\Users\hp\Downloads\Ventass-main\Delivery\BL.Ventas\bin\Debug\BL.Ventas.pdb
-C:\Users\hp\Downloads\Ventass-main\Delivery\BL.Ventas\obj\Debug\BL.Ventas.dll
-C:\Users\hp\Downloads\Ventass-main\Delivery\BL.Ventas\obj\Debug\BL.Ventas.pdb
